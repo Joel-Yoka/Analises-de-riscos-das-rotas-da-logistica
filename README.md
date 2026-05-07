@@ -1,4 +1,4 @@
-# Analises-de-riscos-das-rotas-da-logistica
+# Analises de riscos das rotas da logistica
 
 O setor petrolífero já enfrentou perdas significativas, como o caso da BP “Deepwater Horizon” em 2010, que resultou em US$ 65 bilhões em prejuízos e 87 dias de paralisação. Este episódio, causado entre outros fatores pelo atraso na entrega de um equipamento crítico, reforça a necessidade de um estudo cuidadoso das rotas logísticas utilizadas para aquisição de equipamentos. Eventos relacionados ao estreito de Ormuz também evidenciam a importância de analisar as vias de fornecimento.
 
