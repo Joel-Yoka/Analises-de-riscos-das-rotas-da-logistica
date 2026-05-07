@@ -41,4 +41,4 @@ Ferramentas usadas pra este análise:
 - Figma
 - Os dados vieram do Kaggle, usei o python para adaptar as rotas e recalcular os riscos.
 
-![Dashboard](./Logistic_Risk_analysis.png) 
+![Dashboard](./Logistic_Risk_Analysis.png) 
